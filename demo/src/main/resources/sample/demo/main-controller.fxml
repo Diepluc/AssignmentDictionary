@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="Pane" maxHeight="550.0" maxWidth="780.0" minHeight="550.0" minWidth="780.0" prefHeight="550.0" prefWidth="780.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.demo.MainController">
+    <children>
+        <ListView id="lView" fx:id="listView" layoutX="14.0" layoutY="138.0" prefHeight="391.0" prefWidth="234.0" stylesheets="@cssAssignDictionary.css" />
+        <TextField fx:id="wordTarget" layoutX="14.0" layoutY="101.0" prefHeight="30.0" prefWidth="203.0">
+            <font>
+                <Font size="14.0" />
+            </font>
+        </TextField>
+        <Label id="labelExplain" fx:id="wordExplain" layoutX="275.0" layoutY="138.0" prefHeight="391.0" prefWidth="370.0" stylesheets="@cssAssignDictionary.css">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Label>
+        <Button layoutX="597.0" layoutY="138.0" mnemonicParsing="false" onAction="#textSpeech" text="Speak" />
+        <Label layoutX="195.0" prefHeight="86.0" prefWidth="451.0" text="   Assignment Dictionary">
+            <font>
+                <Font size="40.0" />
+            </font>
+        </Label>
+        <VBox layoutX="666.0" layoutY="205.0" prefHeight="241.0" prefWidth="100.0" AnchorPane.topAnchor="205.0">
+            <children>
+                <Button id="button" mnemonicParsing="false" onAction="#addWord" prefHeight="26.0" prefWidth="103.0" stylesheets="@cssAssignDictionary.css" text="Add">
+                    <VBox.margin>
+                        <Insets bottom="20.0" />
+                    </VBox.margin>
+                </Button>
+                <Button id="button" mnemonicParsing="false" onAction="#removeWord" prefHeight="26.0" prefWidth="103.0" text="Remove">
+                    <VBox.margin>
+                        <Insets bottom="20.0" />
+                    </VBox.margin>
+                </Button>
+                <Button id="button" mnemonicParsing="false" onAction="#changeWord" prefHeight="26.0" prefWidth="103.0" text="Change">
+                    <VBox.margin>
+                        <Insets bottom="20.0" />
+                    </VBox.margin>
+                </Button>
+                <Button id="button" mnemonicParsing="false" onAction="#exportFile" prefHeight="26.0" prefWidth="103.0" text="ExportFile">
+                    <VBox.margin>
+                        <Insets bottom="20.0" />
+                    </VBox.margin>
+                </Button>
+            </children>
+        </VBox>
+      <Button id="butRemove" layoutX="217.0" layoutY="101.0" mnemonicParsing="false" onAction="#removeTarget" prefHeight="26.0" prefWidth="30.0" text="&lt;" textFill="#167911">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+    </children>
+</AnchorPane>

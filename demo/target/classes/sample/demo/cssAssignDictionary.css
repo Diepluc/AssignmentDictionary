@@ -1,0 +1,25 @@
+#Pane {
+     -fx-background-color: #6495ED;
+}
+
+#button {
+    -fx-background-color: #E0FFFF;
+}
+
+#butRemove {
+    -fx-background-color: #FFFAFA;
+}
+
+#lView {
+    -fx-font-size: 14;
+}
+
+#labelExplain {
+     -fx-background-color: #F8F8FF;
+     -fx-font-size: 18;
+      -fx-alignment:center;
+}
+
+#searchButton {
+    -fx-img-src: url
+}

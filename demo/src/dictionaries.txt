@@ -1,0 +1,98 @@
+book	sách
+school	trường học
+student	học sinh
+teach	dạy
+learn	học
+note	ghi nhớ
+read	đọc
+write	viết
+repeat	lặp lại
+apple	quả táo
+bag	cặp sách
+notebook	vở ghi
+computer	máy tính
+mouse	chuột
+keyboard	bàn phím
+about	về
+accept	chấp nhận
+action	hoạt động
+add	cộng
+admit	thừa nhận
+after	sau
+map	bản đồ
+people	người
+call	gọi
+care	quan tâm
+cat	con mèo
+cell	ô, ngăn
+chart	đồ thị, biểu đồ
+bright	sáng chói
+build	xây dựng
+buy	mua
+by	bởi, bằng
+dance	nhảy
+day	ngày
+dear	thân, thân yêu
+decide	quyết định
+deep	sâu
+degree	mức độ, trình độ
+desert	sa mạc
+either	mỗi, một
+else	khác
+energy	năng lượng, nghị lực
+end	cuối cùng
+even	ngay cả
+fair	hợp lý
+famous	nổi tiếng
+far	xa
+fast	nhanh
+fight	đấu tranh
+glass	kính, thủy tinh
+garden	khu vườn
+grass	cỏ
+great	vĩ đại, to lớn
+guide	chỉ dẫn
+had	có
+happy	vui vẻ
+hear	lắng nghe
+here	ở đây
+hurry	vội vàng
+ice	băng, đá
+in	trong
+insert	sa mạc
+keep	giữ
+lady	quý cô
+late	muộn
+laugh	cười
+make	làm
+matter	chất, vật chất
+more	hơn nhiều
+moon	mặt trăng
+music	âm nhạc
+nature	tự nhiên
+night	đêm
+nor	cũng không
+nothing	không gì cả
+object	vật chất
+observe	quan sát
+often	thường
+only	chỉ
+other	khác
+page	trang
+pass	qua, vượt qua
+piece	mảnh
+quick	nhanh
+quiet	yên lặng
+radio	radio
+rain	mưa
+raise	nâng lên
+salt	muối
+same	đều đều
+sea	biển
+thank	cảm ơn
+thick	dày
+this	đây
+use	sử dụng
+very	rất
+wait	chờ
+you	bạn
